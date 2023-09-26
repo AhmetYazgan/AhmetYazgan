@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/6f7540ed3c19f68b19fd06d2ece2b18b159f4c09aefb510c28d87438ee777aa5/68747470733a2f2f6331302e70617472656f6e75736572636f6e74656e742e636f6d2f342f70617472656f6e2d6d656469612f702f706f73742f38343130373533362f37323063616234363536376634613738393831623334393662356461333562312f65794a33496a6f324d6a42392f322e706e673f746f6b656e2d74696d653d3136393530383136303026746f6b656e2d686173683d677358725f54507875416130646b4769626e7158654b70774d36485968794f384f59796130674e45666a4d253344" height="40" alt="google CoLab logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="google CoLab logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   
