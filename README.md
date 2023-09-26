@@ -46,9 +46,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="google CoLab logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/4571184cfb69acb12ec5999006f3497ce904a6fcdf973a8dda56b3ed9d82df59/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30312f437265617465645f776974685f4d6174706c6f746c69622d6c6f676f2e7376672f3230343870782d437265617465645f776974685f4d6174706c6f746c69622d6c6f676f2e7376672e706e67" height="40" alt="google sheets logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" height="40" alt="google sheets logo"  />
   <img width="12" />
   <img src="https://camo.githubusercontent.com/afa35eabf3843dfc8a1765d396a12e9d498ce8c74b7131bdc31e4fcb45b750b3/68747470733a2f2f313030306c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30382f4d6963726f736f66742d457863656c2d4c6f676f2e706e67" height="40" alt="excel logo"  />
   
